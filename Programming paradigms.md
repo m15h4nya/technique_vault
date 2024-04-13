@@ -1,4 +1,4 @@
-#work #programming #paradigms
+#programming #paradigms
 
 1. [Imperative](https://en.wikipedia.org/wiki/Imperative_programming) (instruct the machine how to change its state)
 	1. [[Procedural]]

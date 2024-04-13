@@ -1,4 +1,4 @@
-#p #postgresql 
+#article #postgresql 
 In PostgreSQL, isolation levels define how transactions interact with each other in a multi-user environment. These levels ensure the consistency and integrity of the database when multiple transactions are being executed concurrently. PostgreSQL supports different isolation levels conforming to the SQL standard, each providing a different level of consistency, concurrency, and performance trade-offs. Here are the isolation levels supported by PostgreSQL:
 
 1. **Read Uncommitted (Level 0):**

@@ -1,4 +1,4 @@
-#p #postgresql 
+#article #postgresql 
 PostgreSQL offers various types of indices to optimize database performance for different types of queries and data structures. Some of the common types of indices in PostgreSQL include:
 
 1. B-tree Index: This is the default index type in PostgreSQL and is suitable for various types of queries, including equality and range queries. B-tree indices are balanced tree structures that provide efficient lookups, inserts, and deletes.

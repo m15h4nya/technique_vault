@@ -1,4 +1,4 @@
-#p #api #meta
+#article #api #meta
 It seems like you're asking about the principles for building RESTful APIs. REST (Representational State Transfer) is an architectural style for designing networked applications. Here are some key principles for RESTful APIs:
 
 1. **Client-Server Architecture**: Separation of concerns between the client and server. The client is responsible for the user interface and user experience, while the server is responsible for data storage and processing.
